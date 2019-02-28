@@ -13,16 +13,23 @@ It is necessary to make an inventory of the plant which has the following equipm
 <li> other small machines that differ in the specifics of the application
 <hr>
 Each unit of moving vehicles has:
+  
 brand, mass, cost, load capacity,
+
 engine size, fuel type, fuel consumption (electricity is also fuel)
+
 the number of passengers (including the driver, if any).
 
+
 Each type of machine has:
+
 brand, mass, cost,
+
 number of parts produced per hour
+
 power consumption, the number of staff.
-Additional parameters for objects are allowed (if you see fit to add something).
 <hr>
 It is necessary:
+
 Calculate the price of movable, real estate and the total price.
 Count the number of personnel to service all equipment.
