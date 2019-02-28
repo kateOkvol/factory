@@ -12,7 +12,7 @@ It is necessary to make an inventory of the plant which has the following equipm
 <li> large lathes
 <li> other small machines that differ in the specifics of the application
 <hr>
-Each unit of moving vehicles has:
+<li>Each unit of moving vehicles has:
   
 brand, mass, cost, load capacity,
 
@@ -21,7 +21,7 @@ engine size, fuel type, fuel consumption (electricity is also fuel)
 the number of passengers (including the driver, if any).
 
 
-Each type of machine has:
+<li>Each type of machine has:
 
 brand, mass, cost,
 
